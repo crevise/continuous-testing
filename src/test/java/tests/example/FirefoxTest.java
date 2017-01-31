@@ -13,7 +13,6 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class FirefoxTest {
-	@Test
 	public void as()
 	{
                 WebDriver driver = new FirefoxDriver();

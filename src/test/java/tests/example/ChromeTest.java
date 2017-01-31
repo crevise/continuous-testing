@@ -11,7 +11,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 public class ChromeTest {
-	@Test
 	public void as()
 	{
 	        System.setProperty("webdriver.chrome.driver", "/Users/muktaaphale/Downloads/chromedriver");
